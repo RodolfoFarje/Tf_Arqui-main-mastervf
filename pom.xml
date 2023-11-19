@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pe.edu.upc</groupId>
-	<artifactId>tf_arquitectura_web</artifactId>
+	<artifactId>Tf_Arqui-main-master</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>tf_arquitectura_web</name>
-	<description>tf_arquitectura_web</description>
+	<name>Tf_Arqui-main-master</name>
+	<description>Tf_Arqui-main-master</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
